@@ -1,0 +1,217 @@
+
+==================================================
+    STUDENT ACADEMIC & RESULT MANAGEMENT SYSTEM   
+    Course: PRC1001 (Programming in C) - UPES     
+==================================================
+ [ 1 ] Register New Student Profile
+ [ 2 ] Search Student Record by SAP ID
+ [ 3 ] Display Cumulative GPA (CGPA) of Student
+ [ 4 ] Show Average CGPA by Academic Year
+ [ 5 ] View Complete Student Directory
+ [ 6 ] Delete Student Record from System
+ [ 7 ] Sort Directory by SAP ID (Insertion Sort)
+ [ 8 ] Sort Directory by Student Name (Bubble Sort)
+ [ 9 ] AI-Assisted Academic Advisory Module
+ [10 ] Load Sample Test Cohort (5 Students)
+ [ 0 ] Exit Application
+==================================================
+Select action (0-10): 
+[Success] 5 diverse cohort student profiles loaded into memory.
+
+Press [Enter] to return to main menu...
+==================================================
+    STUDENT ACADEMIC & RESULT MANAGEMENT SYSTEM   
+    Course: PRC1001 (Programming in C) - UPES     
+==================================================
+ [ 1 ] Register New Student Profile
+ [ 2 ] Search Student Record by SAP ID
+ [ 3 ] Display Cumulative GPA (CGPA) of Student
+ [ 4 ] Show Average CGPA by Academic Year
+ [ 5 ] View Complete Student Directory
+ [ 6 ] Delete Student Record from System
+ [ 7 ] Sort Directory by SAP ID (Insertion Sort)
+ [ 8 ] Sort Directory by Student Name (Bubble Sort)
+ [ 9 ] AI-Assisted Academic Advisory Module
+ [10 ] Load Sample Test Cohort (5 Students)
+ [ 0 ] Exit Application
+==================================================
+Select action (0-10): 
+>>> COMPLETE STUDENT DIRECTORY <<<
+Total Enrolled Students: 5
+
+**************************************************
+ SAP ID        : 59002001
+ Roll Number   : R2001
+ Student Name  : Kabir Mehta
+ Contact Phone : 9823456781
+ Email Address : kabir.mehta@stu.upes.ac.in
+ Academic Year : Year 2
+ Semester      : Semester 4
+ SGPA Scores   : [S1: 9.30] [S2: 9.10] [S3: 9.40] [S4: 9.20] [S5: N/A] [S6: N/A] [S7: N/A] [S8: N/A] 
+ Computed CGPA : 9.25
+**************************************************
+
+**************************************************
+ SAP ID        : 59002002
+ Roll Number   : R2002
+ Student Name  : Ananya Sen
+ Contact Phone : 9812345672
+ Email Address : ananya.sen@stu.upes.ac.in
+ Academic Year : Year 1
+ Semester      : Semester 2
+ SGPA Scores   : [S1: 7.90] [S2: 8.10] [S3: N/A] [S4: N/A] [S5: N/A] [S6: N/A] [S7: N/A] [S8: N/A] 
+ Computed CGPA : 8.00
+**************************************************
+
+**************************************************
+ SAP ID        : 59002003
+ Roll Number   : R2003
+ Student Name  : Rohan Joshi
+ Contact Phone : 9712345673
+ Email Address : rohan.joshi@stu.upes.ac.in
+ Academic Year : Year 3
+ Semester      : Semester 5
+ SGPA Scores   : [S1: 6.60] [S2: 6.20] [S3: 6.50] [S4: 6.30] [S5: 6.70] [S6: N/A] [S7: N/A] [S8: N/A] 
+ Computed CGPA : 6.46
+**************************************************
+
+**************************************************
+ SAP ID        : 59002004
+ Roll Number   : R2004
+ Student Name  : Divya Nair
+ Contact Phone : 9612345674
+ Email Address : divya.nair@stu.upes.ac.in
+ Academic Year : Year 1
+ Semester      : Semester 1
+ SGPA Scores   : [S1: 5.40] [S2: N/A] [S3: N/A] [S4: N/A] [S5: N/A] [S6: N/A] [S7: N/A] [S8: N/A] 
+ Computed CGPA : 5.40
+**************************************************
+
+**************************************************
+ SAP ID        : 59002005
+ Roll Number   : R2005
+ Student Name  : Vikram Singhania
+ Contact Phone : 9512345675
+ Email Address : vikram.singh@stu.upes.ac.in
+ Academic Year : Year 4
+ Semester      : Semester 7
+ SGPA Scores   : [S1: 7.60] [S2: 8.20] [S3: 7.80] [S4: 8.00] [S5: 7.90] [S6: 8.10] [S7: 7.70] [S8: N/A] 
+ Computed CGPA : 7.90
+**************************************************
+
+Press [Enter] to return to main menu...
+==================================================
+    STUDENT ACADEMIC & RESULT MANAGEMENT SYSTEM   
+    Course: PRC1001 (Programming in C) - UPES     
+==================================================
+ [ 1 ] Register New Student Profile
+ [ 2 ] Search Student Record by SAP ID
+ [ 3 ] Display Cumulative GPA (CGPA) of Student
+ [ 4 ] Show Average CGPA by Academic Year
+ [ 5 ] View Complete Student Directory
+ [ 6 ] Delete Student Record from System
+ [ 7 ] Sort Directory by SAP ID (Insertion Sort)
+ [ 8 ] Sort Directory by Student Name (Bubble Sort)
+ [ 9 ] AI-Assisted Academic Advisory Module
+ [10 ] Load Sample Test Cohort (5 Students)
+ [ 0 ] Exit Application
+==================================================
+Select action (0-10): 
+>>> AI-ASSISTED ACADEMIC ADVISOR <<<
+ [1] Generate advisory for an individual student (by SAP ID)
+ [2] Generate advisory summary for entire cohort
+ Enter option: 
+Student: Kabir Mehta | SAP ID: 59002001
+==================================================
+        ACADEMIC ADVISORY ASSESSMENT REPORT       
+==================================================
+ Evaluated CGPA: 9.25
+ Classification : Tier 1 - Outstanding Merit
+ Recommendation : Exemplary academic standing! You qualify for dean's
+                  honors and campus research opportunities. Maintain
+                  your rigorous study habits and consider technical publishing.
+==================================================
+
+Student: Ananya Sen | SAP ID: 59002002
+==================================================
+        ACADEMIC ADVISORY ASSESSMENT REPORT       
+==================================================
+ Evaluated CGPA: 8.00
+ Classification : Tier 2 - Meritorious Achievement
+ Recommendation : Commendable performance across semesters! Address minor
+                  dips in specific theory/lab subjects to push your
+                  overall score into the distinction bracket (9.0+).
+==================================================
+
+Student: Rohan Joshi | SAP ID: 59002003
+==================================================
+        ACADEMIC ADVISORY ASSESSMENT REPORT       
+==================================================
+ Evaluated CGPA: 6.46
+ Classification : Tier 3 - Satisfactory / Growth Focus
+ Recommendation : Satisfactory academic progress, but there is significant
+                  potential for improvement. Form study groups, attend
+                  tutorial hours, and allocate more time to foundational courses.
+==================================================
+
+Student: Divya Nair | SAP ID: 59002004
+==================================================
+        ACADEMIC ADVISORY ASSESSMENT REPORT       
+==================================================
+ Evaluated CGPA: 5.40
+ Classification : Tier 4 - Academic Warning Notice
+ Recommendation : Performance requires urgent intervention! Schedule an
+                  immediate counseling session with your faculty advisor
+                  and follow a structured daily revision schedule.
+==================================================
+
+Student: Vikram Singhania | SAP ID: 59002005
+==================================================
+        ACADEMIC ADVISORY ASSESSMENT REPORT       
+==================================================
+ Evaluated CGPA: 7.90
+ Classification : Tier 2 - Meritorious Achievement
+ Recommendation : Commendable performance across semesters! Address minor
+                  dips in specific theory/lab subjects to push your
+                  overall score into the distinction bracket (9.0+).
+==================================================
+
+Press [Enter] to return to main menu...
+==================================================
+    STUDENT ACADEMIC & RESULT MANAGEMENT SYSTEM   
+    Course: PRC1001 (Programming in C) - UPES     
+==================================================
+ [ 1 ] Register New Student Profile
+ [ 2 ] Search Student Record by SAP ID
+ [ 3 ] Display Cumulative GPA (CGPA) of Student
+ [ 4 ] Show Average CGPA by Academic Year
+ [ 5 ] View Complete Student Directory
+ [ 6 ] Delete Student Record from System
+ [ 7 ] Sort Directory by SAP ID (Insertion Sort)
+ [ 8 ] Sort Directory by Student Name (Bubble Sort)
+ [ 9 ] AI-Assisted Academic Advisory Module
+ [10 ] Load Sample Test Cohort (5 Students)
+ [ 0 ] Exit Application
+==================================================
+Select action (0-10): 
+[Warning] Invalid selection. Please choose an option between 0 and 10.
+
+Press [Enter] to return to main menu...
+==================================================
+    STUDENT ACADEMIC & RESULT MANAGEMENT SYSTEM   
+    Course: PRC1001 (Programming in C) - UPES     
+==================================================
+ [ 1 ] Register New Student Profile
+ [ 2 ] Search Student Record by SAP ID
+ [ 3 ] Display Cumulative GPA (CGPA) of Student
+ [ 4 ] Show Average CGPA by Academic Year
+ [ 5 ] View Complete Student Directory
+ [ 6 ] Delete Student Record from System
+ [ 7 ] Sort Directory by SAP ID (Insertion Sort)
+ [ 8 ] Sort Directory by Student Name (Bubble Sort)
+ [ 9 ] AI-Assisted Academic Advisory Module
+ [10 ] Load Sample Test Cohort (5 Students)
+ [ 0 ] Exit Application
+==================================================
+Select action (0-10): 
+Session closed. Program exited cleanly.
